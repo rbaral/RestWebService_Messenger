@@ -19,4 +19,6 @@ The project was created using the Eclipse Mars Version: Mars.1 Release (4.5.1) B
 A recent version of eclipse for J2EE can be used to build a maven project and then add the relevant resource,service and beans to come up with
 such basic projct.
 
+To add, the chrome extension called Postman was used as a client interface. One can easily add the Postman plugin into chrome browser and navigate to the respective url to test/access the web service. A sample run of the Postman is attached (postman_interface_1.png and postman_interface_2.png). 
+
 Thank you.
