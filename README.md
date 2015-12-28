@@ -15,6 +15,7 @@ class should take care of which request.
 
 The application also contains the exception handling module which is pretty easy and is self explanatory.
 
+<b>TOOLS, IDE:</b>
 The project was created using the Eclipse Mars Version: Mars.1 Release (4.5.1) Build id: 20150924-1200.
 A recent version of eclipse for J2EE can be used to build a maven project and then add the relevant resource,service and beans to come up with
 such basic projct.
